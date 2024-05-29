@@ -142,7 +142,6 @@ const AddUser = () => {
       </div>
     </Box>
     </div>
-    
   );
 };
 
